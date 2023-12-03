@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>The Mindfulnest</title>
+	<atom:link href="http://themindfulnest.nl/feed/" rel="self" type="application/rss+xml" />
+	<link>https://themindfulnest.nl/</link>
+	<description></description>
+	<lastBuildDate>Mon, 29 Mar 2021 19:57:23 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+
+<image>
+	<url>http://themindfulnest.nl/wp-content/uploads/2021/04/cropped-faviconTMNblack-12-32x32.jpg</url>
+	<title>The Mindfulnest</title>
+	<link>https://themindfulnest.nl/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Hello world!</title>
+		<link>http://themindfulnest.nl/hello-world/</link>
+					<comments>http://themindfulnest.nl/hello-world/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 29 Mar 2021 19:57:23 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://themindfulnest.nl/?p=1</guid>
+
+					<description><![CDATA[<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+<p>The post <a rel="nofollow" href="http://themindfulnest.nl/hello-world/">Hello world!</a> appeared first on <a rel="nofollow" href="http://themindfulnest.nl">The Mindfulnest</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+<p>The post <a rel="nofollow" href="http://themindfulnest.nl/hello-world/">Hello world!</a> appeared first on <a rel="nofollow" href="http://themindfulnest.nl">The Mindfulnest</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://themindfulnest.nl/hello-world/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

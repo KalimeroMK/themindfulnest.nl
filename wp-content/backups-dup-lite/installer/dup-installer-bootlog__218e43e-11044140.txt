@@ -1,0 +1,28 @@
+[Jul 11 05:17:22] 
+[Jul 11 05:17:22] ==DUPLICATOR INSTALLER BOOTSTRAP v1.5.5==
+[Jul 11 05:17:22] ----------------------------------------------------
+[Jul 11 05:17:22] Installer bootstrap start
+[Jul 11 05:17:22] Manual extract found so not going to extract dup-installer dir
+[Jul 11 05:17:22] EXTRACT dup-installer dir
+[Jul 11 05:17:22] NOTICE: Didn't need to extract the installer.
+[Jul 11 05:17:22] Set permissions of dup-installer<br/>
+[Jul 11 05:17:22] Set permissions of dup-installer/addons<br/>
+[Jul 11 05:17:22] Set permissions of dup-installer/assets<br/>
+[Jul 11 05:17:22] Set permissions of dup-installer/classes<br/>
+[Jul 11 05:17:22] Set permissions of dup-installer/ctrls<br/>
+[Jul 11 05:17:22] Set permissions of dup-installer/favicon<br/>
+[Jul 11 05:17:22] Set permissions of dup-installer/libs<br/>
+[Jul 11 05:17:22] Set permissions of dup-installer/original_files_[HASH]<br/>
+[Jul 11 05:17:22] Set permissions of dup-installer/src<br/>
+[Jul 11 05:17:22] Set permissions of dup-installer/templates<br/>
+[Jul 11 05:17:22] Set permissions of dup-installer/vendor<br/>
+[Jul 11 05:17:22] Set permissions of dup-installer/dup-archive__[HASH].txt<br/>
+[Jul 11 05:17:22] Set permissions of dup-installer/dup-database__[HASH].sql<br/>
+[Jul 11 05:17:22] Set permissions of dup-installer/dup-manual-extract__[HASH]<br/>
+[Jul 11 05:17:22] Set permissions of dup-installer/dup-scan__[HASH].json<br/>
+[Jul 11 05:17:22] Set permissions of dup-installer/dup-scanned-dirs__[HASH].txt<br/>
+[Jul 11 05:17:22] Set permissions of dup-installer/dup-scanned-files__[HASH].txt<br/>
+[Jul 11 05:17:22] Set permissions of dup-installer/index.php<br/>
+[Jul 11 05:17:22] Set permissions of dup-installer/installer.php<br/>
+[Jul 11 05:17:22] Set permissions of dup-installer/main.installer.php<br/>
+[Jul 11 05:17:22] DONE: No detected errors so redirecting to the main installer. Main Installer URI = http://themindfulnest.nl/dup-installer/main.installer.php
